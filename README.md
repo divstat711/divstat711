@@ -5,11 +5,11 @@
 
 - 💬 Talk me about **Life, Business, Economy, Statistics, Power of Data**
 
-- :school: University **Delhi University**
+- :school: I study at **Delhi University**
 
 - 📫 How to reach me **kesharidivyanshstats@gmail.com**
 
-- ⚡ Fun fact **I love listening. Often listen to breakups. :p**
+- ⚡ Fun fact **I love listening. :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
