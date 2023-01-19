@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divyansh Keshari</h1>
 <h3 align="center">A passionate Post Grad student from India, with interest in Data and applications.</h3>
 
-- 🌱 I’m currently learning **Sklearn, OpenCV, TensorFlow, Machine Learning, Data Science**
+- 🌱 I’m currently learning **Life, TensorFlow, Machine Learning, Data Science**
 
-- 💬 Ask me about **Statistics, Data visualisation**
+- 💬 Talk me about **Life, Business, Economy, Statistics, Power of Data**
+
+- :school: University **Delhi University**
 
 - 📫 How to reach me **kesharidivyanshstats@gmail.com**
 
